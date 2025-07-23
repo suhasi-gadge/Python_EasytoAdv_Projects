@@ -129,5 +129,3 @@ Many project ideas are inspired by the amazing tutorials from [Tech With Tim](ht
 
 Thanks for visiting! ⭐ If you find this repo helpful or inspiring, consider starring it to support my journey.
 
-```
-
