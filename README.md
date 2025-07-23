@@ -115,9 +115,9 @@ pip install -r requirements.txt
 
 I’m actively looking for full-time opportunities in software development or backend roles. If you're a recruiter or hiring manager and want to learn more about my work:
 
-* 📧 Email: \[[your.email@example.com](mailto:suhasigadge1325@gmail.com)]
-* 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/suhasi-gadge)
-* 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/suhasi-gadge)
+* 📧 Email: \[[suhasigadge1325@gmail.com]]
+* 💼 LinkedIn: [https://linkedin.com/in/suhasi-gadge]
+* 🧑‍💻 GitHub: [https://github.com/suhasi-gadge]
 
 ---
 
