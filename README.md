@@ -10,7 +10,6 @@
 🎯 A hands-on portfolio of 21 Python projects—from beginner to advanced—built to strengthen my coding skills and demonstrate real-world problem-solving. Includes games, automation tools, and algorithmic scripts that reflect my learning journey and readiness for software development roles.
 
 
-````markdown
 # 🐍 Python Projects Portfolio – From Beginner to Advanced
 
 🎓 Hi! I'm a recent Computer Science graduate passionate about software development and problem-solving. This repository is a personal portfolio of 21 Python projects, created as part of my hands-on journey to strengthen my programming skills.
@@ -83,7 +82,6 @@ cd Python_EasytoAdv_Projects/rock-paper-scissors
 
 # Run the script
 python main.py
-````
 
 > Some projects may require dependencies. Use the command below when needed:
 
